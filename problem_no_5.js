@@ -13,5 +13,3 @@ console.log(typeof(aftetConvert_Int))
 let afterConvert_String = int.toString()
 console.log(afterConvert_String)
 console.log(typeof(afterConvert_String))
-
-
