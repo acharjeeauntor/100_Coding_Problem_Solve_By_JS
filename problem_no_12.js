@@ -25,5 +25,3 @@ a=a^b
 console.log(`After Swapping, a is ${a}, b is ${b}`)
 
 
-
-
